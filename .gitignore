@@ -1,0 +1,6 @@
+terraform.tfstate
+terraform.tfstate.backup
+.vscode
+.terraform
+.DS_Store
+.lambda/lambda.zip

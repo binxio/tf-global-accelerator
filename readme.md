@@ -1,0 +1,1 @@
+https://binx.io/blog/2019/07/03/building-a-global-app-with-aws-global-accelerator/
